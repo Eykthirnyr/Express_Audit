@@ -8,18 +8,12 @@ The software is designed to give a super fast, no-fuss assessment of a client’
 It’s perfect for leaving behind a professional document after a quick look, without anyone needing to dig into complicated tools or manuals. This way, when our technicians come in later, they have a head start with a basic view of what’s going on.
 
 # How It Works:
-The software is built using Python and has a simple graphical interface powered by Tkinter. Here’s what happens when you run it:
 
-System Checks: It goes through critical elements of the IT system, looking at:
+The software is built using Python and has a simple graphical interface powered by Tkinter. 
 
-Server updates, antivirus status, and general security configurations.
-Client machines to check for encryption, antivirus, and authentication practices.
-Backup systems to see if there’s redundancy and regularity in place.
-Network setups, including firewall rules and Wi-Fi configurations.
-User-friendly Interface: Non-technical users just select the type of audit they want — whether it’s a server check, backup review, or network security scan. 
+Users can input some basic details like the client’s name, auditor name, and even upload the company’s logo for a custom touch on the final report.
 
-They can input some basic details like the client’s name, auditor name, and even upload the company’s logo for a custom touch on the final report.
+As the software runs through its checks, it displays the status of each component, giving the user a live view of the systems that are being reviewed.
 
-Real-time Feedback: As the software runs through its checks, it displays the status of each component, giving the user a live view of the systems that are being reviewed.
-
-Instant PDF Generation: After the audit is complete, the software spits out a neat PDF report with the company logo, contact details, and a breakdown of the systems' health. The report can be handed over to the client instantly, making them feel like we’ve left something useful behind.
+Instant PDF Generation: After the audit is complete, the software spits out a neat PDF report with the company logo, contact details, and a breakdown of the systems' health. 
+The report can be handed over to the client instantly, making them feel like we’ve left something useful behind.
