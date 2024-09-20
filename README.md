@@ -13,7 +13,7 @@ The software is built using Python and has a simple graphical interface powered 
 
 Users can input some basic details like the client’s name, auditor name, and even upload the company’s logo for a custom touch on the final report.
 
-As the user runs through its checks, the graph displays the status of each component, giving the user a live view of the systems that are being reviewed.
+As the user runs through its checks, the graph displays the status of each component, providing a live view of the systems that are being reviewed.
 
 Instant PDF Generation: After the audit is complete, the software spits out a neat PDF report with the company logo, contact details, and a breakdown of the systems' health. 
 The report can be handed over to the client instantly, making them feel like we’ve left something useful behind.
