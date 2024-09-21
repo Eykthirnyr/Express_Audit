@@ -17,3 +17,5 @@ As the user runs through its checks, the graph displays the status of each compo
 
 After the audit is complete, the software spits out a neat PDF report with the company logo, contact details, and a breakdown of the systems' health. 
 The report can be handed over to the client instantly, making them feel like we’ve left something useful behind.
+
+Clément GHANEME - 2024/09
